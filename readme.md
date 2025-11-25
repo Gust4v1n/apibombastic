@@ -1,10 +1,5 @@
 # 📚 Guia de Configuração - Supabase
 
-## ✅ Configuração Concluída
-
-Seu backend foi totalmente migrado para usar **Supabase** em vez de armazenar dados localmente.
-
----
 
 ## 📦 Instalações Realizadas
 
@@ -257,3 +252,4 @@ curl -X POST http://localhost:3000/api/pedidos \
 
 
 **Backend Supabase configurado com sucesso! 🎉**
+
